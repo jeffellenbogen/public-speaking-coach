@@ -1,0 +1,5 @@
+{
+  "name": "Public Speaking Coach AI",
+  "description": "An AI-powered public speaking coach that analyzes your presentation videos and provides constructive, actionable feedback on posture, pacing, speech, and gestures. Upload your presentation, specify the feedback you need, and get expert advice to improve your skills.",
+  "requestFramePermissions": []
+}
